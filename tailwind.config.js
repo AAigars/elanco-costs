@@ -130,6 +130,7 @@ const config = {
     },
   ],
   plugins: [require("@headlessui/tailwindcss"), require("@tailwindcss/forms")],
+  darkMode: "class",
 };
 
 export default config;
